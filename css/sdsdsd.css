@@ -11,11 +11,7 @@ body{
 #cabecera{
     
     background: rgb(7, 47, 224);
-<<<<<<< HEAD
-    box-shadow: 0px 2px 1px 2px; 
-=======
     box-shadow: 10px 22px 15px 12px, rgba(red, rgb(128, 0, 0), blue, alpha);
->>>>>>> cabecera
     color: white;
     font-weight: bold;
     margin: 0%;
