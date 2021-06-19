@@ -1,6 +1,7 @@
 body{
 
-    color: chocolate;
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -21,6 +22,12 @@ body{
       rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline{
 
     margin: 0 0 0 1em;
@@ -38,4 +45,10 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
